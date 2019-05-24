@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Carl Müller-Crepon</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Carl Müller-Crepon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Who Benefits? How Local Ethnic Demography Shapes Political Favoritism in Africa.</title>
+      <link>/publication/ethnic_favoritism/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ethnic_favoritism/</guid>
+      <description>We investigate how local ethnic demography affects strategies of favoritism in Africa.</description>
+    </item>
+    
+    <item>
+      <title>Roads to Extraction: Natural Resources and the Physical Foundations of State Capacity</title>
+      <link>/publication/roads_extraction/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/roads_extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roads to Rule, Roads to Rebel: Relational State Capacity and Conflict in Africa</title>
+      <link>/publication/roads_rule_rebellion/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/roads_rule_rebellion/</guid>
+      <description>We find that roads decrease conflict risk in connecting ethnic groups to capitals, but increase it in connecting groups internally.</description>
+    </item>
+    
+    <item>
+      <title>State Reach and Development in Africa, 1965-2015</title>
+      <link>/publication/state_reach_development/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/state_reach_development/</guid>
+      <description>I find positive effects of increases in state reach measured through travel times to administrative capitals on local development.</description>
+    </item>
+    
+    <item>
+      <title>Sowing Hatred: Local Ethno-Political Competition and Pre-Election Violence in Majoritarian Elections</title>
+      <link>/publication/electoral_violence/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/electoral_violence/</guid>
+      <description>Provides evidence that local ethno-political polarization increases violence before majoritarian but not PR elections in Africa.</description>
+    </item>
+    
+    <item>
+      <title>Continuity or Change? (In)direct Rule in British and French Colonial Africa</title>
+      <link>/publication/indirect_rule/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/indirect_rule/</guid>
+      <description>New historical data show that the British ruled more indirectly than the French, in particular in precolonially centralized regions.</description>
+    </item>
+    
+    <item>
+      <title>New spatial data on ethnicity: Introducing SIDE</title>
+      <link>/publication/side_data/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/side_data/</guid>
+      <description>New data on the ethnic and religious composition of local populations in 47 low- and middle-income countries.</description>
+    </item>
+    
+  </channel>
+</rss>

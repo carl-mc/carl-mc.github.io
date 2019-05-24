@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lars-Erik Cederman on Carl Müller-Crepon</title>
+    <link>/authors/lars-erik-cederman/</link>
+    <description>Recent content in Lars-Erik Cederman on Carl Müller-Crepon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/lars-erik-cederman/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Roads to Rule, Roads to Rebel: Relational State Capacity and Conflict in Africa</title>
+      <link>/publication/roads_rule_rebellion/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/roads_rule_rebellion/</guid>
+      <description>We find that roads decrease conflict risk in connecting ethnic groups to capitals, but increase it in connecting groups internally.</description>
+    </item>
+    
+  </channel>
+</rss>

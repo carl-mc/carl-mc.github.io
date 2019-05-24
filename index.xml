@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carl Müller-Crepon</title>
+    <link>/</link>
+    <description>Recent content on Carl Müller-Crepon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Linking Ethnic Data from Africa</title>
+      <link>/project/ethnic_matching/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/ethnic_matching/</guid>
+      <description>
+
+&lt;p&gt;Work with Yannick Pengl (ETH Zurich) and Nils-Christian Bormann (University of Exeter).&lt;/p&gt;
+
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+
+&lt;p&gt;Ethnic identities structure social space. Social scientists have therefore assembled many
+high-quality datasets on ethnic groups, in particular covering African countries.
+However, the integration of these datasets has not yet been brought to its full potential.
+We propose a consistent and comprehensive matching of 10&amp;rsquo;000 ethnic categories in the
+eleven most prominent datasets. We first match all ethnic categories to the linguistic
+database Ethnologue. We leverage this set of all known languages as an intermediate
+dictionary to provide a link between any two groups in the original data. Leveraging the
+structure of the linguistic trees, we can match ethnic groups on multiple levels of
+aggregation and take into account linguistic distances between them. This will help
+researchers to make the most out of the available data on ethnic groups in Africa.&lt;/p&gt;
+
+&lt;h3 id=&#34;interlinked-datasets&#34;&gt;Interlinked datasets&lt;/h3&gt;
+
+&lt;p&gt;In total, we link ethnic lists drawn from eleven data sources:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.afrobarometer.org/&#34; target=&#34;_blank&#34;&gt;Afrobarometer Surveys&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cidcm.umd.edu/research/all-minorities-risk-project&#34; target=&#34;_blank&#34;&gt;All Minorities at Risk (AMAR)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://international.ipums.org/international/index.shtml&#34; target=&#34;_blank&#34;&gt;Census data from IPUMS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://growup.ethz.ch/&#34; target=&#34;_blank&#34;&gt;Ethnic Power Relations Dataset&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ethnologue.com/&#34; target=&#34;_blank&#34;&gt;Ethnologue languages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ethnic groups in &lt;a href=&#34;https://doi.org/10.3982/ECTA11237&#34; target=&#34;_blank&#34;&gt;Francois, Trebbi &amp;amp; Rainer (2015)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ethnic groups from &lt;a href=&#34;https://web.stanford.edu/group/ethnic/publicdata/publicdata.html&#34; target=&#34;_blank&#34;&gt;Fearon (2003)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://icr.ethz.ch/data/greg/&#34; target=&#34;_blank&#34;&gt;GREG Data&lt;/a&gt; (based on the Russian Atlas Miradova)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dhsprogram.com/data/&#34; target=&#34;_blank&#34;&gt;Demographic and Health Surveys&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://worldmap.harvard.edu/data/geonode:Murdock_EA_2011_vkZ&#34; target=&#34;_blank&#34;&gt;Murdock Atlas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://side.ethz.ch&#34; target=&#34;_blank&#34;&gt;Spatially Interpolated Data on Ethnicity (SIDE)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Who Benefits? How Local Ethnic Demography Shapes Political Favoritism in Africa.</title>
+      <link>/publication/ethnic_favoritism/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ethnic_favoritism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>African road network data</title>
+      <link>/project/road_data/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/road_data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roads to Extraction: Natural Resources and the Physical Foundations of State Capacity</title>
+      <link>/publication/roads_extraction/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/roads_extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roads to Rule, Roads to Rebel: Relational State Capacity and Conflict in Africa</title>
+      <link>/publication/roads_rule_rebellion/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/roads_rule_rebellion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State Reach and Development in Africa, 1965-2015</title>
+      <link>/publication/state_reach_development/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/state_reach_development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sowing Hatred: Local Ethno-Political Competition and Pre-Election Violence in Majoritarian Elections</title>
+      <link>/publication/electoral_violence/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/electoral_violence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuity or Change? (In)direct Rule in British and French Colonial Africa</title>
+      <link>/publication/indirect_rule/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/indirect_rule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regions in independent Africa</title>
+      <link>/project/admin_unit_data/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/admin_unit_data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New spatial data on ethnicity: Introducing SIDE</title>
+      <link>/publication/side_data/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/side_data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatially Interpolated Data on Ethnicity</title>
+      <link>/project/side_data/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/side_data/</guid>
+      <description>
+
+&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
+
+&lt;p&gt;The Spatially Interpolated Data on Ethnicity (SIDE) dataset is a collection of 253 near-continuous maps of local ethno-linguistic, religious, and ethno-religious settlement patterns in 47 low- and middle-income countries. These data are a generalization of ethnicity-related information in the geo-coded Demographic and Health Surveys (DHS). Many DHS surveys are geo-coded, thus providing a set of spatial sampling points containing local ethnic composition estimates. We use methods from geo-statistics and machine learning to estimate the ethnic composition of areas in between these sampling points to produce a continuous map of ethnic compositions for each surveyed country.&lt;/p&gt;
+
+&lt;p&gt;Please refer to &lt;a href=&#34;https://journals.sagepub.com/doi/full/10.1177/0022343318764254&#34; target=&#34;_blank&#34;&gt;this article&lt;/a&gt; for all details.&lt;/p&gt;
+
+&lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
+
+&lt;p&gt;Please note the following, important limitations of the data. First, DHS sampling may be not always be representative due to social phenomena, such as political violence. Although there is no systematic evidence of this, the data might in some cases be affected by local sampling bias. Second, even though for many countries SIDE covers multiple years, we caution against relying on this temporal variation for inferential purposes. Due to variation in the sampling and coding of the DHS, a substantial share of intertemporal variance in the SIDE data is random noise. Third, although the SIDE data are provided as high-resolution rasters, very local variation in the data may not be meaningful. This depends on the imputation parameters, the local density of the DHS data, and their random displacement of up to 2km (10km) in urban (rural) areas.
+Given these limitations, we encourage the use of SIDE for cross-national analyses that require consistent, cross-national data on local ethnic demographies, rather than single-country studies that rely on high-precision data.&lt;/p&gt;
+
+&lt;h3 id=&#34;data-and-code&#34;&gt;Data and code&lt;/h3&gt;
+
+&lt;p&gt;We provide the data for download at &lt;a href=&#34;http://side.ethz.ch&#34; target=&#34;_blank&#34;&gt;http://side.ethz.ch&lt;/a&gt; and as a R-package on &lt;a href=&#34;https://github.com/carl-mc/sidedata&#34; target=&#34;_blank&#34;&gt;https://github.com/carl-mc/sidedata&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;citation&#34;&gt;Citation&lt;/h3&gt;
+
+&lt;p&gt;When using this dataset in your research, please include the following reference:&lt;/p&gt;
+
+&lt;p&gt;Müller-Crepon, Carl &amp;amp; Philipp Hunziker. (2018). New Spatial Data on Ethnicity: Introducing SIDE. &lt;em&gt;Journal of Peace Research, 55&lt;/em&gt;(5), 687–698.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

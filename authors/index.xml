@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Carl Müller-Crepon</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Carl Müller-Crepon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Janina Beiser-McGrath](https://janinabeiser.weebly.com/), Carl Müller-Crepon, and [Yannick Pengl](https://icr.ethz.ch/people/pengl/)</title>
+      <link>/authors/janina-beiser-mcgrathhttps/janinabeiser.weebly.com/-carl-m%C3%BCller-crepon-and-yannick-penglhttps/icr.ethz.ch/people/pengl/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/janina-beiser-mcgrathhttps/janinabeiser.weebly.com/-carl-m%C3%BCller-crepon-and-yannick-penglhttps/icr.ethz.ch/people/pengl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carl Müller-Crepon </title>
+      <link>/authors/carl-m%C3%BCller-crepon/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/carl-m%C3%BCller-crepon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Philipp Hunziker](https://philipphunziker.com/), Carl Müller-Crepon, and [Lars-Erik Cederman](https://icr.ethz.ch/people/cederman/)</title>
+      <link>/authors/philipp-hunzikerhttps/philipphunziker.com/-carl-m%C3%BCller-crepon-and-lars-erik-cedermanhttps/icr.ethz.ch/people/cederman/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/philipp-hunzikerhttps/philipphunziker.com/-carl-m%C3%BCller-crepon-and-lars-erik-cedermanhttps/icr.ethz.ch/people/cederman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carl Müller-Crepon and [Philipp Hunziker](https://philipphunziker.com/)</title>
+      <link>/authors/carl-m%C3%BCller-crepon-and-philipp-hunzikerhttps/philipphunziker.com/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/carl-m%C3%BCller-crepon-and-philipp-hunzikerhttps/philipphunziker.com/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>I am, as of July 2019, a PostDoc at the International Conflict Research Group at ETH Zurich and a visiting researcher at Harvard University&amp;rsquo;s IQSS. My research and dissertation focuses on state building in twentieth century Africa and its effects on local development and conflict. At ETH Zurich, I am part of the ERC NASTAC project through which analyzes the interplay between state (trans)formation and nationalism in Europe. Furthermore, I work on the effects of local ethnic demography on pre-election violence and ethnic favoritism in Africa.</description>
+    </item>
+    
+  </channel>
+</rss>

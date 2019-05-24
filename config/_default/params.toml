@@ -50,26 +50,19 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "888 888 88 88"
-address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+email = "carlvs@ethz.ch"
+phone = "+41 44 632 63 48"
+address = "ETH Zurich, Haldeneggsteig 4, 8092 Zurich, Switzerland"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:00 to 13:00<br>
-                  Wednesday 09:00 to 10:00"""
+office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  ]
+contact_links = []
 
 # Display a map.
 # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
@@ -106,17 +99,33 @@ plugins_js  = []
 ## Advanced options       ##
 ############################
 
+# Publication types.
+#   Used to categorize publications.
+#   The index of the publication type in the list is used as its unique numerical identifier.
+#   The numeric ID is used in a publication's frontmatter to categorize it.
+#   The language can be edited below.
+#   For multi-lingual sites, copy this block to each language section at the end of this file.
+publication_types = [
+  'Uncategorized',  # 0
+  'Conference proceedings',  # 1
+  'Journal article',  # 2
+  'Work in progress',  # 3
+  'Technical report',  # 4
+  'Book',  # 5
+  'Book chapter'  # 6
+]
+  
 # Get user avatars from Gravatar.com? (true/false)
 gravatar = false
 
 # Align the main menu to the right of the page? (true/false)
-menu_align_right = false
+menu_align_right = true
 
 # Show estimated reading time for posts? (true/false)
-reading_time = true
+reading_time = false
 
 # Display comment count (if commenting enabled in config.toml)? (true/false)
-comment_count = true
+comment_count = false
 
 # Display next/previous section pager? (true/false)
 section_pager = false
@@ -133,6 +142,23 @@ sharing = true
 
   # Citation style ("apa" or "mla")
   citation_style = "apa"
+  
+  # Publication types.
+  #   Used to categorize publications.
+  #   The index of the publication type in the list is used as its unique numerical identifier.
+  #   The numeric ID is used in a publication's frontmatter to categorize it.
+  #   The language can be edited below.
+  #   For multi-lingual sites, copy this block to each language section at the end of this file.
+  publication_types = [
+    'Uncategorized',  # 0
+    'Conference proceedings',  # 1
+    'Journal article',  # 2
+    'Work in progress',  # 3
+    'Technical report',  # 4
+    'Book',  # 5
+    'Book chapter'  # 6
+  ]
+  
 
 # Configuration of project pages.
 [projects]
@@ -151,7 +177,7 @@ sharing = true
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  engine = 0
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
