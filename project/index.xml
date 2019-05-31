@@ -6,45 +6,45 @@
     <description>Recent content in Projects on Carl Müller-Crepon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Spatially Interpolated Data on Ethnicity</title>
+      <link>/project/side_data/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/side_data/</guid>
+      <description>Collection of 253 near-continuous maps of local ethno-linguistic, religious, and ethno-religious settlement patterns in 47 countries.</description>
+    </item>
+    
+    <item>
       <title>Linking Ethnic Data from Africa</title>
       <link>/project/ethnic_matching/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/ethnic_matching/</guid>
       <description>Link between 10&amp;rsquo;000 ethnic categories in 11 datasets on ethnic groups in Africa</description>
     </item>
     
     <item>
-      <title>African road network data</title>
-      <link>/project/road_data/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/project/road_data/</guid>
-      <description>Time-varying GIS data on road networks from the Michelin map corpus 1966-2017.</description>
-    </item>
-    
-    <item>
       <title>Regions in independent Africa</title>
       <link>/project/admin_unit_data/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/project/admin_unit_data/</guid>
       <description>Collection of GIS data on 1st level administrative units, independence - today.</description>
     </item>
     
     <item>
-      <title>Spatially Interpolated Data on Ethnicity</title>
-      <link>/project/side_data/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <title>African road network data</title>
+      <link>/project/road_data/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/side_data/</guid>
-      <description>Collection of 253 near-continuous maps of local ethno-linguistic, religious, and ethno-religious settlement patterns in 47 countries.</description>
+      <guid>/project/road_data/</guid>
+      <description>Time-varying GIS data on road networks from the Michelin map corpus 1966-2017.</description>
     </item>
     
   </channel>
