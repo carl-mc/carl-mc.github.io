@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 on Carl Müller-Crepon</title>
+    <link>/publication_types/7/</link>
+    <description>Recent content in 7 on Carl Müller-Crepon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>State building, development and conflict in 20th century Africa</title>
+      <link>/publication/dissertation/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dissertation/</guid>
+      <description>Spatial analyses of local state building and its effects on development and conflict.</description>
+    </item>
+    
+  </channel>
+</rss>
