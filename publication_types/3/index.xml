@@ -6,10 +6,19 @@
     <description>Recent content in 3 on Carl Müller-Crepon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Linking Ethnic Data from Africa (LEDA)</title>
+      <link>/publication/leda/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/leda/</guid>
+      <description>We interlink 11 ethnic datasets from Africa via the language tree.</description>
+    </item>
     
     <item>
       <title>Who Benefits? How Local Ethnic Demography Shapes Political Favoritism in Africa.</title>

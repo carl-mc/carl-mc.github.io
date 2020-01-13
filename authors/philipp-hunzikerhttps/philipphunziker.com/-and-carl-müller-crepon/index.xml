@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>[Philipp Hunziker](https://philipphunziker.com/) and Carl Müller-Crepon on Carl Müller-Crepon</title>
+    <link>/authors/philipp-hunzikerhttps/philipphunziker.com/-and-carl-m%C3%BCller-crepon/</link>
+    <description>Recent content in [Philipp Hunziker](https://philipphunziker.com/) and Carl Müller-Crepon on Carl Müller-Crepon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/philipp-hunzikerhttps/philipphunziker.com/-and-carl-m%C3%BCller-crepon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modeling the partitioning of geographic space into endogenous units</title>
+      <link>/publication/spatlattice/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/spatlattice/</guid>
+      <description>New model to analyze the endogenous clustering of space into units.</description>
+    </item>
+    
+  </channel>
+</rss>

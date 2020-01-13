@@ -6,10 +6,19 @@
     <description>Recent content in Data on Carl Müller-Crepon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/data/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Linking Ethnic Data from Africa (LEDA)</title>
+      <link>/project/ethnic_matching/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/project/ethnic_matching/</guid>
+      <description>We interlink 11 ethnic datasets from Africa via the language tree.</description>
+    </item>
     
     <item>
       <title>Spatially Interpolated Data on Ethnicity</title>
@@ -18,15 +27,6 @@
       
       <guid>/project/side_data/</guid>
       <description>Collection of 253 near-continuous maps of local ethno-linguistic, religious, and ethno-religious settlement patterns in 47 countries.</description>
-    </item>
-    
-    <item>
-      <title>Linking Ethnic Data from Africa</title>
-      <link>/project/ethnic_matching/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/ethnic_matching/</guid>
-      <description>Link between 10&amp;rsquo;000 ethnic categories in 11 datasets on ethnic groups in Africa</description>
     </item>
     
     <item>
