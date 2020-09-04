@@ -6,18 +6,63 @@
     <description>Recent content in Publications on Carl Müller-Crepon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Roads to Rule, Roads to Rebel: Relational State Capacity and Conflict in Africa</title>
+      <link>/publication/roads_rule_rebellion/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/roads_rule_rebellion/</guid>
+      <description>We find that roads decrease conflict risk in connecting ethnic groups to capitals, but increase it in connecting groups internally.</description>
+    </item>
+    
+    <item>
+      <title>Local Ethno-Political Polarization and Election Violence in Majoritarian vs. Proportional Systems</title>
+      <link>/publication/electoral_violence/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/electoral_violence/</guid>
+      <description>Provides evidence that local ethno-political polarization increases violence before majoritarian but not PR elections in Africa.</description>
+    </item>
+    
+    <item>
+      <title>Linking Ethnic Data from Africa (LEDA)</title>
+      <link>/publication/leda/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/leda/</guid>
+      <description>We interlink 11 ethnic datasets from Africa via the language tree.</description>
+    </item>
+    
+    <item>
+      <title>Building Tribes: How Administrative Units Shaped Ethnic Groups in Africa</title>
+      <link>/publication/admin_identities/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/admin_identities/</guid>
+      <description>How did administrative geographies (trans-)form ethnic identities in Africa?</description>
+    </item>
+    
+    <item>
       <title>Continuity or Change? (In)direct Rule in British and French Colonial Africa</title>
       <link>/publication/indirect_rule/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/publication/indirect_rule/</guid>
       <description>New historical data show that the British ruled more indirectly than the French, in particular in precolonially centralized regions.</description>
+    </item>
+    
+    <item>
+      <title>Shaping States into Nations: The Effects of Ethnic Geography on State Borders</title>
+      <link>/publication/state_shape/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/state_shape/</guid>
+      <description>We investigate in how far today&amp;rsquo;s traditional institutions in Africa mirror their precolonial predecessors.</description>
     </item>
     
     <item>
@@ -39,24 +84,6 @@
     </item>
     
     <item>
-      <title>Linking Ethnic Data from Africa (LEDA)</title>
-      <link>/publication/leda/</link>
-      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/leda/</guid>
-      <description>We interlink 11 ethnic datasets from Africa via the language tree.</description>
-    </item>
-    
-    <item>
-      <title>Building Tribes: On the Administrative Origins of Ethnicity in Africa</title>
-      <link>/publication/admin_identities/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/admin_identities/</guid>
-      <description>How did administrative geographies (trans-)form ethnic identities in Africa?</description>
-    </item>
-    
-    <item>
       <title>Chiefs, Pre-Colonial Centralization and Development in Sub-Saharan Africa</title>
       <link>/publication/chiefs_voting/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -72,15 +99,6 @@
       
       <guid>/publication/spatlattice/</guid>
       <description>New model to analyze the endogenous clustering of space into units.</description>
-    </item>
-    
-    <item>
-      <title>Ethnic Nationalism and the Shaping of European States</title>
-      <link>/publication/state_shape/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/state_shape/</guid>
-      <description>We investigate in how far today&amp;rsquo;s traditional institutions in Africa mirror their precolonial predecessors.</description>
     </item>
     
     <item>
@@ -111,30 +129,12 @@
     </item>
     
     <item>
-      <title>Roads to Rule, Roads to Rebel: Relational State Capacity and Conflict in Africa</title>
-      <link>/publication/roads_rule_rebellion/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/roads_rule_rebellion/</guid>
-      <description>We find that roads decrease conflict risk in connecting ethnic groups to capitals, but increase it in connecting groups internally.</description>
-    </item>
-    
-    <item>
       <title>State building, development and conflict in 20th century Africa</title>
       <link>/publication/dissertation/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/publication/dissertation/</guid>
       <description>Spatial analyses of local state building and its effects on development and conflict.</description>
-    </item>
-    
-    <item>
-      <title>Sowing Hatred: Local Ethno-Political Competition and Pre-Election Violence in Majoritarian Elections</title>
-      <link>/publication/electoral_violence/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/electoral_violence/</guid>
-      <description>Provides evidence that local ethno-political polarization increases violence before majoritarian but not PR elections in Africa.</description>
     </item>
     
     <item>

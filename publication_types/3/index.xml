@@ -6,10 +6,28 @@
     <description>Recent content in 3 on Carl Müller-Crepon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Building Tribes: How Administrative Units Shaped Ethnic Groups in Africa</title>
+      <link>/publication/admin_identities/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/admin_identities/</guid>
+      <description>How did administrative geographies (trans-)form ethnic identities in Africa?</description>
+    </item>
+    
+    <item>
+      <title>Shaping States into Nations: The Effects of Ethnic Geography on State Borders</title>
+      <link>/publication/state_shape/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/state_shape/</guid>
+      <description>We investigate in how far today&amp;rsquo;s traditional institutions in Africa mirror their precolonial predecessors.</description>
+    </item>
     
     <item>
       <title>Indirect Rule, Cash Crop Production, and Development in Africa</title>
@@ -21,39 +39,12 @@
     </item>
     
     <item>
-      <title>Linking Ethnic Data from Africa (LEDA)</title>
-      <link>/publication/leda/</link>
-      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/leda/</guid>
-      <description>We interlink 11 ethnic datasets from Africa via the language tree.</description>
-    </item>
-    
-    <item>
       <title>Does Local State Capacity Foster Development in Africa? New Data and Analysis</title>
       <link>/publication/state_reach_development/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/publication/state_reach_development/</guid>
       <description>I find positive effects of increases in state reach measured through travel times to administrative capitals on local development.</description>
-    </item>
-    
-    <item>
-      <title>Roads to Rule, Roads to Rebel: Relational State Capacity and Conflict in Africa</title>
-      <link>/publication/roads_rule_rebellion/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/roads_rule_rebellion/</guid>
-      <description>We find that roads decrease conflict risk in connecting ethnic groups to capitals, but increase it in connecting groups internally.</description>
-    </item>
-    
-    <item>
-      <title>Sowing Hatred: Local Ethno-Political Competition and Pre-Election Violence in Majoritarian Elections</title>
-      <link>/publication/electoral_violence/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/electoral_violence/</guid>
-      <description>Provides evidence that local ethno-political polarization increases violence before majoritarian but not PR elections in Africa.</description>
     </item>
     
   </channel>

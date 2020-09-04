@@ -6,17 +6,62 @@
     <description>Recent content on Carl Müller-Crepon</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Roads to Rule, Roads to Rebel: Relational State Capacity and Conflict in Africa</title>
+      <link>/publication/roads_rule_rebellion/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/roads_rule_rebellion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Ethno-Political Polarization and Election Violence in Majoritarian vs. Proportional Systems</title>
+      <link>/publication/electoral_violence/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/electoral_violence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking Ethnic Data from Africa (LEDA)</title>
+      <link>/publication/leda/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/leda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Tribes: How Administrative Units Shaped Ethnic Groups in Africa</title>
+      <link>/publication/admin_identities/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/admin_identities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Continuity or Change? (In)direct Rule in British and French Colonial Africa</title>
       <link>/publication/indirect_rule/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/publication/indirect_rule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shaping States into Nations: The Effects of Ethnic Geography on State Borders</title>
+      <link>/publication/state_shape/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/state_shape/</guid>
       <description></description>
     </item>
     
@@ -74,24 +119,6 @@
     </item>
     
     <item>
-      <title>Linking Ethnic Data from Africa (LEDA)</title>
-      <link>/publication/leda/</link>
-      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/leda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Building Tribes: On the Administrative Origins of Ethnicity in Africa</title>
-      <link>/publication/admin_identities/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/admin_identities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Chiefs, Pre-Colonial Centralization and Development in Sub-Saharan Africa</title>
       <link>/publication/chiefs_voting/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -106,15 +133,6 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/publication/spatlattice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ethnic Nationalism and the Shaping of European States</title>
-      <link>/publication/state_shape/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/state_shape/</guid>
       <description></description>
     </item>
     
@@ -142,15 +160,6 @@
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/publication/roads_extraction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Roads to Rule, Roads to Rebel: Relational State Capacity and Conflict in Africa</title>
-      <link>/publication/roads_rule_rebellion/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/roads_rule_rebellion/</guid>
       <description></description>
     </item>
     
@@ -191,15 +200,6 @@ Given these limitations, we encourage the use of SIDE for cross-national analyse
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/publication/dissertation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sowing Hatred: Local Ethno-Political Competition and Pre-Election Violence in Majoritarian Elections</title>
-      <link>/publication/electoral_violence/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/electoral_violence/</guid>
       <description></description>
     </item>
     
