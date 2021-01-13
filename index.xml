@@ -6,252 +6,27 @@
     <description>Recent content on Carl Müller-Crepon</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Roads to Rule, Roads to Rebel: Relational State Capacity and Conflict in Africa</title>
-      <link>/publication/roads_rule_rebellion/</link>
-      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      <title>Publications</title>
+      <link>/publication/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/publication/roads_rule_rebellion/</guid>
+      <guid>/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Local Ethno-Political Polarization and Election Violence in Majoritarian vs. Proportional Systems</title>
-      <link>/publication/electoral_violence/</link>
-      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/electoral_violence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linking Ethnic Data from Africa (LEDA)</title>
-      <link>/publication/leda/</link>
-      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/leda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Building Tribes: How Administrative Units Shaped Ethnic Groups in Africa</title>
-      <link>/publication/admin_identities/</link>
-      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/admin_identities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Continuity or Change? (In)direct Rule in British and French Colonial Africa</title>
-      <link>/publication/indirect_rule/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/indirect_rule/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shaping States into Nations: The Effects of Ethnic Geography on State Borders</title>
-      <link>/publication/state_shape/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/state_shape/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Who Benefits? How Local Ethnic Demography Shapes Political Favoritism in Africa</title>
-      <link>/publication/ethnic_favoritism/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/ethnic_favoritism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Indirect Rule, Cash Crop Production, and Development in Africa</title>
-      <link>/publication/indirect_rule_dev/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/indirect_rule_dev/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linking Ethnic Data from Africa (LEDA)</title>
-      <link>/project/ethnic_matching/</link>
+      <title>Projects</title>
+      <link>/project/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/project/ethnic_matching/</guid>
-      <description>
-
-&lt;p&gt;A data project with Yannick Pengl (ETH Zurich) and Nils-Christian Bormann (University of Essex). All data and the LEDA R-package can be found on the &lt;a href=&#34;https://github.com/carl-mc/LEDA&#34; target=&#34;_blank&#34;&gt;LEDA Github page&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
-
-&lt;p&gt;abstract: Social scientists increasingly combine multiple datasets to study ethnicity in Africa. We facilitate these efforts by systematically linking over 8&amp;rsquo;100 ethnic categories from eleven databases including surveys, geographic data, and expert-coded lists.  Exploiting the linguistic tree from the Ethnologue database, we propose a systematic solution to the &lt;em&gt;grouping problem&lt;/em&gt; of ethnicity. Novel empirical results on trust in African heads of states highlight the importance of explicitly considering sample inclusion criteria and different ways of linking ethnic categories from multiple datasets. An R-package allows researchers to link ethnic groups from any database with explicit rules and to easily add their own data on ethnic groups.&lt;/p&gt;
-
-&lt;h3 id=&#34;interlinked-datasets&#34;&gt;Interlinked datasets&lt;/h3&gt;
-
-&lt;p&gt;In total, we link ethnic lists drawn from eleven data sources:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.afrobarometer.org/&#34; target=&#34;_blank&#34;&gt;Afrobarometer Surveys&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cidcm.umd.edu/research/all-minorities-risk-project&#34; target=&#34;_blank&#34;&gt;All Minorities at Risk (AMAR)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://international.ipums.org/international/index.shtml&#34; target=&#34;_blank&#34;&gt;Census data from IPUMS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://growup.ethz.ch/&#34; target=&#34;_blank&#34;&gt;Ethnic Power Relations Dataset&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ethnologue.com/&#34; target=&#34;_blank&#34;&gt;Ethnologue languages&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Political Relevant Ethnic Groups from &lt;a href=&#34;http://web.mit.edu/posner/www/papers/ethnic_fraction.pdf&#34; target=&#34;_blank&#34;&gt;Posner (2004)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Ethnic groups in &lt;a href=&#34;https://doi.org/10.3982/ECTA11237&#34; target=&#34;_blank&#34;&gt;Francois, Trebbi &amp;amp; Rainer (2015)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Ethnic groups from &lt;a href=&#34;https://web.stanford.edu/group/ethnic/publicdata/publicdata.html&#34; target=&#34;_blank&#34;&gt;Fearon (2003)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://icr.ethz.ch/data/greg/&#34; target=&#34;_blank&#34;&gt;GREG Data&lt;/a&gt; (based on the Russian Atlas Miradova)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dhsprogram.com/data/&#34; target=&#34;_blank&#34;&gt;Demographic and Health Surveys&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://worldmap.harvard.edu/data/geonode:Murdock_EA_2011_vkZ&#34; target=&#34;_blank&#34;&gt;Murdock Atlas&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://side.ethz.ch&#34; target=&#34;_blank&#34;&gt;Spatially Interpolated Data on Ethnicity (SIDE)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Chiefs, Pre-Colonial Centralization and Development in Sub-Saharan Africa</title>
-      <link>/publication/chiefs_voting/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/chiefs_voting/</guid>
+      <guid>/project/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Traditional Institutions in Africa, Past and Present</title>
-      <link>/publication/tradinst/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/tradinst/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Does Local State Capacity Foster Development in Africa? New Data and Analysis</title>
-      <link>/publication/state_reach_development/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/state_reach_development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Roads to Extraction: Natural Resources and the Physical Foundations of State Capacity in Africa</title>
-      <link>/publication/roads_extraction/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/roads_extraction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spatially Interpolated Data on Ethnicity</title>
-      <link>/project/side_data/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/project/side_data/</guid>
-      <description>
-
-&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
-
-&lt;p&gt;The Spatially Interpolated Data on Ethnicity (SIDE) dataset is a collection of 253 near-continuous maps of local ethno-linguistic, religious, and ethno-religious settlement patterns in 47 low- and middle-income countries. These data are a generalization of ethnicity-related information in the geo-coded Demographic and Health Surveys (DHS). Many DHS surveys are geo-coded, thus providing a set of spatial sampling points containing local ethnic composition estimates. We use methods from geo-statistics and machine learning to estimate the ethnic composition of areas in between these sampling points to produce a continuous map of ethnic compositions for each surveyed country.&lt;/p&gt;
-
-&lt;p&gt;Please refer to &lt;a href=&#34;https://journals.sagepub.com/doi/full/10.1177/0022343318764254&#34; target=&#34;_blank&#34;&gt;this article&lt;/a&gt; for all details.&lt;/p&gt;
-
-&lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
-
-&lt;p&gt;Please note the following, important limitations of the data. First, DHS sampling may be not always be representative due to social phenomena, such as political violence. Although there is no systematic evidence of this, the data might in some cases be affected by local sampling bias. Second, even though for many countries SIDE covers multiple years, we caution against relying on this temporal variation for inferential purposes. Due to variation in the sampling and coding of the DHS, a substantial share of intertemporal variance in the SIDE data is random noise. Third, although the SIDE data are provided as high-resolution rasters, very local variation in the data may not be meaningful. This depends on the imputation parameters, the local density of the DHS data, and their random displacement of up to 2km (10km) in urban (rural) areas.
-Given these limitations, we encourage the use of SIDE for cross-national analyses that require consistent, cross-national data on local ethnic demographies, rather than single-country studies that rely on high-precision data.&lt;/p&gt;
-
-&lt;h3 id=&#34;data-and-code&#34;&gt;Data and code&lt;/h3&gt;
-
-&lt;p&gt;We provide the data for download at &lt;a href=&#34;http://side.ethz.ch&#34; target=&#34;_blank&#34;&gt;http://side.ethz.ch&lt;/a&gt; and as a R-package on &lt;a href=&#34;https://github.com/carl-mc/sidedata&#34; target=&#34;_blank&#34;&gt;https://github.com/carl-mc/sidedata&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;citation&#34;&gt;Citation&lt;/h3&gt;
-
-&lt;p&gt;When using this dataset in your research, please include the following reference:&lt;/p&gt;
-
-&lt;p&gt;Müller-Crepon, Carl &amp;amp; Philipp Hunziker. (2018). New Spatial Data on Ethnicity: Introducing SIDE. &lt;em&gt;Journal of Peace Research, 55&lt;/em&gt;(5), 687–698.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>State building, development and conflict in 20th century Africa</title>
-      <link>/publication/dissertation/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/dissertation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New spatial data on ethnicity: Introducing SIDE</title>
-      <link>/publication/side_data/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/side_data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regions in independent Africa</title>
-      <link>/project/admin_unit_data/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/project/admin_unit_data/</guid>
-      <description>&lt;p&gt;To collect a full panel on the borders and capitals of first-level administrative regions
-in Africa since countries&amp;rsquo; independence, I draw on the qualitative accounts of unit
-changes from the &lt;a href=&#34;http://statoids.com&#34; target=&#34;_blank&#34;&gt;statoids.com&lt;/a&gt; and encode each administrative unit change geographically.
-With current data on administrative units (from the GAUL and GADM databases),
-I can trace back all unit-splits. Where units have been merged or
-the administrative map of a country has been redrawn completely, I make use of more than 100
-digitized maps, mostly from the CIA Base Map series as well as other GIS data.
-I assocaite each region-periodwith its capital, which are geocoded via the
-&lt;a href=&#34;http://geonames.org&#34; target=&#34;_blank&#34;&gt;geonames.org&lt;/a&gt; gazetteer. Changes in the location of capitals within the same boundaries of a region
-naturally result in new region-periods.
-The final data set covers 1763 unique region-periods,
-covering each African country from independence to 2016.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>African road network data</title>
-      <link>/project/road_data/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/road_data/</guid>
-      <description>
-
-&lt;p&gt;Joint work with &lt;a href=&#34;https://philipphunziker.com/&#34; target=&#34;_blank&#34;&gt;Philipp Hunziker&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;digitizing-african-road-network-data-1966-2017&#34;&gt;Digitizing African road network data (1966-2017)&lt;/h3&gt;
-
-&lt;p&gt;We leverage a custom fully convolutional neural network to collect road network data
-for post-colonial Africa from physical maps
-and transform the spatial data into a time-variant digital road atlas akin to Google maps.
-Our primary source consists in the Michelin maps corpus, which is a collection of large
-topographical maps at a resolution of 1:4,000,000.
-Each map shows detailed information on road infrastructure with a consistent
-cartographic symbology for about a third of the continent.
-While coverage before the 1960s is sporadic, Michelin has covered the entire African continent at
-intervals of approximately 5 years beginning in the mid 1960s.
-This makes the Michelin corpus an unparalleled source for time-variant road-network information.
-In total we digitize 34 map sheets, which combine into 23 maps of the entire continent.
-Using a custom convolutional neural network for pixel classification,
-we an digitize the maps in a comparatively cheap, replicable, and scaleable manner.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;fcnn_ex_maps.png&#34; alt=&#34;Fully convolutional neural network&#34; /&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>

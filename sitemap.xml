@@ -1,51 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2021-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2021-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2021-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/carl-m%C3%BCller-crepon-philipp-hunzikerhttps/philipphunziker.com/-and-lars-erik-cedermanhttps/icr.ethz.ch/people/cederman/</loc>
-    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2021-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2021-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/</loc>
-    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/roads_rule_rebellion/</loc>
-    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/carl-m%C3%BCller-crepon/</loc>
     <lastmod>2020-08-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -56,7 +50,6 @@
   <url>
     <loc>/authors/carl-m%C3%BCller-crepon-yannick-penglhttps/icr.ethz.ch/people/pengl/-and-nils-christian-bormannhttps/ncbormann.github.io/</loc>
     <lastmod>2020-08-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -67,7 +60,6 @@
   <url>
     <loc>/publication_types/3/</loc>
     <lastmod>2020-08-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -76,13 +68,27 @@
   </url>
   
   <url>
+    <loc>/publication_types/0/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/carl-m%C3%BCller-crepon-and-yannick-penglhttps/yannickpengl.com/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/carl-m%C3%BCller-crepon-guy-schivtzhttps/icr.ethz.ch/people/schvitz/-and-lars-erik-cedermanhttps/icr.ethz.ch/people/cederman/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/indirect_rule/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/german_names/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -92,14 +98,23 @@
   </url>
   
   <url>
-    <loc>/publication/ethnic_favoritism/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <loc>/authors/lars-erik-cedermanhttps/icr.ethz.ch/people/cederman/-luc-girardin-and-carl-m%C3%BCller-crepon/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/state_size/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/janina-beiser-mcgrathhttps/janinabeiser.weebly.com/-carl-m%C3%BCller-crepon-and-yannick-penglhttps/icr.ethz.ch/people/pengl/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/ethnic_favoritism/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -110,7 +125,6 @@
   <url>
     <loc>/tags/data/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -121,19 +135,16 @@
   <url>
     <loc>/project/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication_types/0/</loc>
+    <loc>/authors/horacio-larreguyhttps/sites.google.com/site/hlarreguy/-benjamin-marxhttps/sites.google.com/view/bmarx/home-and-carl-m%C3%BCller-crepon/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -142,9 +153,8 @@
   </url>
   
   <url>
-    <loc>/authors/horacio-larreguyhttps/sites.google.com/site/hlarreguy/-benjamin-marxhttps/sites.google.com/view/bmarx/home-and-carl-m%C3%BCller-crepon/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/authors/clara-neupert-wentzhttps/pure.au.dk/portal/en/persons/clara-emilia-edith-neupertwentz70211ce4-1834-4222-9ffd-dd8dbac31d11.html-and-carl-m%C3%BCller-crepon/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -153,15 +163,8 @@
   </url>
   
   <url>
-    <loc>/authors/clara-neupert-wentzhttps/pure.au.dk/portal/en/persons/clara-emilia-edith-neupertwentz70211ce4-1834-4222-9ffd-dd8dbac31d11.html-and-carl-m%C3%BCller-crepon/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/publication_types/7/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -187,7 +190,6 @@
   <url>
     <loc>/authors/carl-m%C3%BCller-crepon-and-philipp-hunzikerhttps/philipphunziker.com/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -211,7 +213,6 @@
   
   <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
