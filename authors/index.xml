@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Carl Müller-Crepon</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Authors on Carl Müller-Crepon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Carl Müller-Crepon, [Philipp Hunziker](https://philipphunziker.com/) and [Lars-Erik Cederman](https://icr.ethz.ch/people/cederman/)</title>
       <link>/authors/carl-m%C3%BCller-crepon-philipp-hunzikerhttps/philipphunziker.com/-and-lars-erik-cedermanhttps/icr.ethz.ch/people/cederman/</link>
-      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/authors/carl-m%C3%BCller-crepon-philipp-hunzikerhttps/philipphunziker.com/-and-lars-erik-cedermanhttps/icr.ethz.ch/people/cederman/</guid>
       <description></description>
@@ -39,11 +39,29 @@
     </item>
     
     <item>
+      <title>Carl Müller-Crepon and [Yannick Pengl](https://yannickpengl.com)</title>
+      <link>/authors/carl-m%C3%BCller-crepon-and-yannick-penglhttps/yannickpengl.com/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/carl-m%C3%BCller-crepon-and-yannick-penglhttps/yannickpengl.com/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Carl Müller-Crepon, [Guy Schivtz](https://icr.ethz.ch/people/schvitz/), and [Lars-Erik Cederman](https://icr.ethz.ch/people/cederman/)</title>
       <link>/authors/carl-m%C3%BCller-crepon-guy-schivtzhttps/icr.ethz.ch/people/schvitz/-and-lars-erik-cedermanhttps/icr.ethz.ch/people/cederman/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/authors/carl-m%C3%BCller-crepon-guy-schivtzhttps/icr.ethz.ch/people/schvitz/-and-lars-erik-cedermanhttps/icr.ethz.ch/people/cederman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Lars-Erik Cederman](https://icr.ethz.ch/people/cederman/), Luc Girardin, and Carl Müller-Crepon</title>
+      <link>/authors/lars-erik-cedermanhttps/icr.ethz.ch/people/cederman/-luc-girardin-and-carl-m%C3%BCller-crepon/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/lars-erik-cedermanhttps/icr.ethz.ch/people/cederman/-luc-girardin-and-carl-m%C3%BCller-crepon/</guid>
       <description></description>
     </item>
     
@@ -62,15 +80,6 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/authors/horacio-larreguyhttps/sites.google.com/site/hlarreguy/-benjamin-marxhttps/sites.google.com/view/bmarx/home-and-carl-m%C3%BCller-crepon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Philipp Hunziker](https://philipphunziker.com/) and Carl Müller-Crepon</title>
-      <link>/authors/philipp-hunzikerhttps/philipphunziker.com/-and-carl-m%C3%BCller-crepon/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/philipp-hunzikerhttps/philipphunziker.com/-and-carl-m%C3%BCller-crepon/</guid>
       <description></description>
     </item>
     
@@ -98,7 +107,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
-      <description>I am a Departmental Lecturer at University of Oxford&amp;rsquo;s Department of Politics and International Relations and a Tutor at St. Hilda&amp;rsquo;s College. Previously, I was a PostDoc at the International Conflict Research Group at ETH Zurich and visitor at Harvard University&amp;rsquo;s Institute for Quantitative Social Science. My research focuses on state building and its effects on local development and conflict, with a focus on twentieth century Africa. Furthermore, I work on ethnic politics in Africa, in particular analyzing patterns of ethnic electoral violence and favoritism.</description>
+      <description>I am a Departmental Lecturer at University of Oxford&amp;rsquo;s Department of Politics and International Relations and a Tutor at St. Hilda&amp;rsquo;s College. Previously, I was a PostDoc at the International Conflict Research Group at ETH Zurich and visitor at Harvard University&amp;rsquo;s Institute for Quantitative Social Science. My research focuses on state building and its effects on local development and conflict, with a focus on twentieth century Africa and, in a string of new projects, in modern Europe.</description>
     </item>
     
   </channel>

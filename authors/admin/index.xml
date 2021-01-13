@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carl Müller-Crepon</title>
@@ -9,15 +9,6 @@
     
 	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/admin/</guid>
-      <description>I am a Departmental Lecturer at University of Oxford&amp;rsquo;s Department of Politics and International Relations and a Tutor at St. Hilda&amp;rsquo;s College. Previously, I was a PostDoc at the International Conflict Research Group at ETH Zurich and visitor at Harvard University&amp;rsquo;s Institute for Quantitative Social Science. My research focuses on state building and its effects on local development and conflict, with a focus on twentieth century Africa. Furthermore, I work on ethnic politics in Africa, in particular analyzing patterns of ethnic electoral violence and favoritism.</description>
-    </item>
     
   </channel>
 </rss>

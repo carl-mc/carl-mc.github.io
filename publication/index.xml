@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Carl Müller-Crepon</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Publications on Carl Müller-Crepon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Roads to Rule, Roads to Rebel: Relational State Capacity and Conflict in Africa</title>
       <link>/publication/roads_rule_rebellion/</link>
-      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/publication/roads_rule_rebellion/</guid>
       <description>We find that roads decrease conflict risk in connecting ethnic groups to capitals, but increase it in connecting groups internally.</description>
@@ -57,12 +57,30 @@
     </item>
     
     <item>
+      <title>Naming the Nation: State building and national identity formation in 19th century Germany</title>
+      <link>/publication/german_names/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/german_names/</guid>
+      <description>We study the effect of German unification on cultural homogenization using genealogical data on first names.</description>
+    </item>
+    
+    <item>
       <title>Shaping States into Nations: The Effects of Ethnic Geography on State Borders</title>
       <link>/publication/state_shape/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/publication/state_shape/</guid>
-      <description>We investigate in how far today&amp;rsquo;s traditional institutions in Africa mirror their precolonial predecessors.</description>
+      <description>We analyze the effect of ethnic geography on the partitioning of Europe into states.</description>
+    </item>
+    
+    <item>
+      <title>Nationalism and the Puzzle of Reversing State Size</title>
+      <link>/publication/state_size/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/state_size/</guid>
+      <description>We assess the roots of the decline of states&amp;rsquo; size in ethno-nationalism.</description>
     </item>
     
     <item>
@@ -93,15 +111,6 @@
     </item>
     
     <item>
-      <title>Modeling the partitioning of geographic space into endogenous units</title>
-      <link>/publication/spatlattice/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/spatlattice/</guid>
-      <description>New model to analyze the endogenous clustering of space into units.</description>
-    </item>
-    
-    <item>
       <title>Traditional Institutions in Africa, Past and Present</title>
       <link>/publication/tradinst/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
@@ -116,7 +125,7 @@
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/publication/state_reach_development/</guid>
-      <description>I find positive effects of increases in state reach measured through travel times to administrative capitals on local development.</description>
+      <description>I that increases in state reach measured through travel times to administrative capitals foster local development.</description>
     </item>
     
     <item>
