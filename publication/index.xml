@@ -6,10 +6,19 @@
     <description>Recent content in Publications on Carl Müller-Crepon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Local Ethno-Political Polarization and Election Violence in Majoritarian vs. Proportional Systems</title>
+      <link>/publication/electoral_violence/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/electoral_violence/</guid>
+      <description>Provides evidence that local ethno-political polarization increases violence before majoritarian but not PR elections in Africa.</description>
+    </item>
     
     <item>
       <title>Roads to Rule, Roads to Rebel: Relational State Capacity and Conflict in Africa</title>
@@ -18,15 +27,6 @@
       
       <guid>/publication/roads_rule_rebellion/</guid>
       <description>We find that roads decrease conflict risk in connecting ethnic groups to capitals, but increase it in connecting groups internally.</description>
-    </item>
-    
-    <item>
-      <title>Local Ethno-Political Polarization and Election Violence in Majoritarian vs. Proportional Systems</title>
-      <link>/publication/electoral_violence/</link>
-      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/electoral_violence/</guid>
-      <description>Provides evidence that local ethno-political polarization increases violence before majoritarian but not PR elections in Africa.</description>
     </item>
     
     <item>
