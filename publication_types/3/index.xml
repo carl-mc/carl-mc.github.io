@@ -6,10 +6,19 @@
     <description>Recent content in 3 on Carl Müller-Crepon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Does Local State Capacity Foster Development in Africa? New Data and Analysis</title>
+      <link>/publication/state_reach_development/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/state_reach_development/</guid>
+      <description>I that increases in state reach measured through travel times to administrative capitals foster local development.</description>
+    </item>
     
     <item>
       <title>Building Tribes: How Administrative Units Shaped Ethnic Groups in Africa</title>
@@ -45,15 +54,6 @@
       
       <guid>/publication/tradinst/</guid>
       <description>We investigate in how far today&amp;rsquo;s traditional institutions in Africa mirror their precolonial predecessors.</description>
-    </item>
-    
-    <item>
-      <title>Does Local State Capacity Foster Development in Africa? New Data and Analysis</title>
-      <link>/publication/state_reach_development/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/state_reach_development/</guid>
-      <description>I that increases in state reach measured through travel times to administrative capitals foster local development.</description>
     </item>
     
   </channel>
