@@ -6,10 +6,19 @@
     <description>Recent content in Publications on Carl Müller-Crepon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Does Local State Capacity Foster Development in Africa? New Data and Analysis</title>
+      <link>/publication/state_reach_development/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/state_reach_development/</guid>
+      <description>I that increases in state reach measured through travel times to administrative capitals foster local development.</description>
+    </item>
     
     <item>
       <title>Local Ethno-Political Polarization and Election Violence in Majoritarian vs. Proportional Systems</title>
@@ -27,15 +36,6 @@
       
       <guid>/publication/roads_rule_rebellion/</guid>
       <description>We find that roads decrease conflict risk in connecting ethnic groups to capitals, but increase it in connecting groups internally.</description>
-    </item>
-    
-    <item>
-      <title>Does Local State Capacity Foster Development in Africa? New Data and Analysis</title>
-      <link>/publication/state_reach_development/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/state_reach_development/</guid>
-      <description>I that increases in state reach measured through travel times to administrative capitals foster local development.</description>
     </item>
     
     <item>
