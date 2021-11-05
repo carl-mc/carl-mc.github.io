@@ -6,10 +6,19 @@
     <description>Recent content in Publications on Carl Müller-Crepon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Linking Ethnic Data from Africa (LEDA)</title>
+      <link>/publication/leda/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/leda/</guid>
+      <description>We interlink 11 ethnic datasets from Africa via the language tree.</description>
+    </item>
     
     <item>
       <title>Cracking or Packing Ethnic Groups? The Colonial Design of Administrative Units in Sub-Saharan Africa</title>
@@ -39,21 +48,21 @@
     </item>
     
     <item>
+      <title>Who Benefits? How Local Ethnic Demography Shapes Political Favoritism in Africa</title>
+      <link>/publication/ethnic_favoritism/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ethnic_favoritism/</guid>
+      <description>We investigate how local ethnic demography affects strategies of favoritism in Africa.</description>
+    </item>
+    
+    <item>
       <title>Roads to Rule, Roads to Rebel: Relational State Capacity and Conflict in Africa</title>
       <link>/publication/roads_rule_rebellion/</link>
       <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/publication/roads_rule_rebellion/</guid>
       <description>We find that roads decrease conflict risk in connecting ethnic groups to capitals, but increase it in connecting groups internally.</description>
-    </item>
-    
-    <item>
-      <title>Linking Ethnic Data from Africa (LEDA)</title>
-      <link>/publication/leda/</link>
-      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/leda/</guid>
-      <description>We interlink 11 ethnic datasets from Africa via the language tree.</description>
     </item>
     
     <item>
@@ -108,15 +117,6 @@
       
       <guid>/publication/state_size/</guid>
       <description>We assess the roots of the decline of states&amp;rsquo; size in ethno-nationalism.</description>
-    </item>
-    
-    <item>
-      <title>Who Benefits? How Local Ethnic Demography Shapes Political Favoritism in Africa</title>
-      <link>/publication/ethnic_favoritism/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/ethnic_favoritism/</guid>
-      <description>We investigate how local ethnic demography affects strategies of favoritism in Africa.</description>
     </item>
     
     <item>
