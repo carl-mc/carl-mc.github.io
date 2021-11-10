@@ -6,10 +6,19 @@
     <description>Recent content in 2 on Carl Müller-Crepon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>State Reach and Development in Africa since the 1960s: New Data and Analysis</title>
+      <link>/publication/state_reach_development/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/state_reach_development/</guid>
+      <description>I show that increases in state reach measured through travel times to administrative capitals foster local development.</description>
+    </item>
     
     <item>
       <title>Linking Ethnic Data from Africa (LEDA)</title>
@@ -18,15 +27,6 @@
       
       <guid>/publication/leda/</guid>
       <description>We interlink 11 ethnic datasets from Africa via the language tree.</description>
-    </item>
-    
-    <item>
-      <title>State Reach and Development in Africa since the 1960s: New Data and Analysis</title>
-      <link>/publication/state_reach_development/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/state_reach_development/</guid>
-      <description>I that increases in state reach measured through travel times to administrative capitals foster local development.</description>
     </item>
     
     <item>

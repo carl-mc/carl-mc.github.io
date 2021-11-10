@@ -6,10 +6,19 @@
     <description>Recent content in Authors on Carl Müller-Crepon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Carl Müller-Crepon </title>
+      <link>/authors/carl-m%C3%BCller-crepon/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/carl-m%C3%BCller-crepon/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Carl Müller-Crepon, [Yannick Pengl](https://icr.ethz.ch/people/pengl/), and [Nils-Christian Bormann](https://ncbormann.github.io/)</title>
@@ -17,15 +26,6 @@
       <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>/authors/carl-m%C3%BCller-crepon-yannick-penglhttps/icr.ethz.ch/people/pengl/-and-nils-christian-bormannhttps/ncbormann.github.io/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Carl Müller-Crepon </title>
-      <link>/authors/carl-m%C3%BCller-crepon/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/carl-m%C3%BCller-crepon/</guid>
       <description></description>
     </item>
     
@@ -116,7 +116,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
-      <description>I am a Departmental Lecturer at University of Oxford&amp;rsquo;s Department of Politics and International Relations and a Tutor at St. Hilda&amp;rsquo;s College. Previously, I was a PostDoc at the International Conflict Research Group at ETH Zurich and a visitor at Harvard University&amp;rsquo;s Institute for Quantitative Social Science. My research focuses on state building and its effects on local development and conflict in Africa and, in more recent work, modern Europe. Much of my work centers on ethnic politics, for example by analyzing patterns of ethnic electoral violence and favoritism.</description>
+      <description>I am a Lecturer at University of Oxford&amp;rsquo;s Department of Politics and International Relations, Tutor at St. Hilda&amp;rsquo;s College, and Associate Member of Nuffiled College. Previously, I was a PostDoc at the International Conflict Research Group at ETH Zurich and a visiting scholar at Harvard University&amp;rsquo;s Institute for Quantitative Social Science.
+My research focuses on state building and its effects on local development and conflict, in particular in Africa. My most recent work explores the reciprocal relationship between ethnic geographies and (sub-)national political borders in Africa and Europe since the 19th century.</description>
     </item>
     
   </channel>
