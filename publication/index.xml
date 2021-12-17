@@ -6,10 +6,19 @@
     <description>Recent content in Publications on Carl Müller-Crepon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Imagined Cartographies: A Survey Experiment on Territorial Border Preferences in Western Ukraine</title>
+      <link>/publication/border_preferences/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/border_preferences/</guid>
+      <description>We study the ethnic roots of individual preferences over interstate borders in western Ukraine.</description>
+    </item>
     
     <item>
       <title>State Reach and Development in Africa since the 1960s: New Data and Analysis</title>
@@ -39,12 +48,48 @@
     </item>
     
     <item>
+      <title>&#39;Right-Peopling&#39; the State: Nationalism, Historical Legacies and Ethnic Cleansing in Europe, 1885-2020</title>
+      <link>/publication/ethnic_change/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ethnic_change/</guid>
+      <description>We analyze the violent process of ethnic homogenization of state populations in Europe since 1850.</description>
+    </item>
+    
+    <item>
+      <title>Traditional Institutions in Africa, Past and Present</title>
+      <link>/publication/tradinst/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tradinst/</guid>
+      <description>We investigate in how far today&amp;rsquo;s traditional institutions in Africa mirror their precolonial predecessors.</description>
+    </item>
+    
+    <item>
+      <title>Nationalism and the Puzzle of Reversing State Size</title>
+      <link>/publication/state_size/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/state_size/</guid>
+      <description>We assess the roots of the decline of states&amp;rsquo; size in ethno-nationalism.</description>
+    </item>
+    
+    <item>
       <title>Local Ethno-Political Polarization and Election Violence in Majoritarian vs. Proportional Systems</title>
       <link>/publication/electoral_violence/</link>
       <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
       
       <guid>/publication/electoral_violence/</guid>
       <description>Provides evidence that local ethno-political polarization increases violence before majoritarian but not PR elections in Africa.</description>
+    </item>
+    
+    <item>
+      <title>Shaping States into Nations: The Effects of Ethnic Geography on State Borders</title>
+      <link>/publication/state_shape/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/state_shape/</guid>
+      <description>We analyze the effect of ethnic geography on the partitioning of Europe into states.</description>
     </item>
     
     <item>
@@ -68,19 +113,10 @@
     <item>
       <title>Building Tribes: How Administrative Units Shaped Ethnic Groups in Africa</title>
       <link>/publication/admin_identities/</link>
-      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/publication/admin_identities/</guid>
       <description>How did administrative geographies (trans-)form ethnic identities in Africa?</description>
-    </item>
-    
-    <item>
-      <title>&#39;Right-peopling&#39; the state: Explaining ethnic assimilation, displacement, and genocide in Europe, 1850-2020</title>
-      <link>/publication/ethnic_change/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/ethnic_change/</guid>
-      <description>We analyze the violent process of ethnic homogenization of state populations in Europe since 1850.</description>
     </item>
     
     <item>
@@ -93,30 +129,12 @@
     </item>
     
     <item>
-      <title>Naming the Nation: State building and national identity formation in 19th century Germany</title>
+      <title>Naming the Nation: State Building and National Identity Formation in 19th Century Germany</title>
       <link>/publication/german_names/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/publication/german_names/</guid>
       <description>We study the effect of German unification on cultural homogenization using genealogical data on first names.</description>
-    </item>
-    
-    <item>
-      <title>Shaping States into Nations: The Effects of Ethnic Geography on State Borders</title>
-      <link>/publication/state_shape/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/state_shape/</guid>
-      <description>We analyze the effect of ethnic geography on the partitioning of Europe into states.</description>
-    </item>
-    
-    <item>
-      <title>Nationalism and the Puzzle of Reversing State Size</title>
-      <link>/publication/state_size/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/state_size/</guid>
-      <description>We assess the roots of the decline of states&amp;rsquo; size in ethno-nationalism.</description>
     </item>
     
     <item>
@@ -135,15 +153,6 @@
       
       <guid>/publication/chiefs_voting/</guid>
       <description>We analyze the interplay of strong traditional institutions, public service provision, and electoral outcomes in 35 African countries.</description>
-    </item>
-    
-    <item>
-      <title>Traditional Institutions in Africa, Past and Present</title>
-      <link>/publication/tradinst/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/tradinst/</guid>
-      <description>We investigate in how far today&amp;rsquo;s traditional institutions in Africa mirror their precolonial predecessors.</description>
     </item>
     
     <item>

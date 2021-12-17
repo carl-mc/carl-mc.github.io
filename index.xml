@@ -6,10 +6,19 @@
     <description>Recent content on Carl Müller-Crepon</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Publications</title>
+      <link>/publication/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Projects</title>
@@ -17,15 +26,6 @@
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>/publication/</link>
-      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/</guid>
       <description></description>
     </item>
     
