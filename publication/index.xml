@@ -6,10 +6,28 @@
     <description>Recent content in Publications on Carl Müller-Crepon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Shaping States into Nations: The Effects of Ethnic Geography on State Borders</title>
+      <link>/publication/state_shape/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/state_shape/</guid>
+      <description>We analyze the effect of ethnic geography on the partitioning of Europe into states.</description>
+    </item>
+    
+    <item>
+      <title>Building Tribes: How Administrative Units Shaped Ethnic Groups in Africa</title>
+      <link>/publication/admin_identities/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/admin_identities/</guid>
+      <description>How did administrative geographies (trans-)form ethnic identities in Africa?</description>
+    </item>
     
     <item>
       <title>Imagined Cartographies: A Survey Experiment on Territorial Border Preferences in Western Ukraine</title>
@@ -84,21 +102,21 @@
     </item>
     
     <item>
+      <title>The Future is History: Restorative Nationalism and Conflict in Post-Napoleonic Europe</title>
+      <link>/publication/future_history/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/future_history/</guid>
+      <description>We assess how historical &amp;ldquo;golden ages&amp;rdquo; affect nationalist territorial claims and conflict.</description>
+    </item>
+    
+    <item>
       <title>Local Ethno-Political Polarization and Election Violence in Majoritarian vs. Proportional Systems</title>
       <link>/publication/electoral_violence/</link>
       <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
       
       <guid>/publication/electoral_violence/</guid>
       <description>Provides evidence that local ethno-political polarization increases violence before majoritarian but not PR elections in Africa.</description>
-    </item>
-    
-    <item>
-      <title>Shaping States into Nations: The Effects of Ethnic Geography on State Borders</title>
-      <link>/publication/state_shape/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/state_shape/</guid>
-      <description>We analyze the effect of ethnic geography on the partitioning of Europe into states.</description>
     </item>
     
     <item>
@@ -117,15 +135,6 @@
       
       <guid>/publication/roads_rule_rebellion/</guid>
       <description>We find that roads decrease conflict risk in connecting ethnic groups to capitals, but increase it in connecting groups internally.</description>
-    </item>
-    
-    <item>
-      <title>Building Tribes: How Administrative Units Shaped Ethnic Groups in Africa</title>
-      <link>/publication/admin_identities/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/admin_identities/</guid>
-      <description>How did administrative geographies (trans-)form ethnic identities in Africa?</description>
     </item>
     
     <item>
