@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8 on Carl Müller-Crepon</title>
+    <link>/publication_types/8/</link>
+    <description>Recent content in 8 on Carl Müller-Crepon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Imagined Cartographies: A Survey Experiment on Territorial Border Preferences in Western Ukraine</title>
+      <link>/publication/border_preferences/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/border_preferences/</guid>
+      <description>We study the ethnic roots of individual preferences over interstate borders in western Ukraine.</description>
+    </item>
+    
+  </channel>
+</rss>
