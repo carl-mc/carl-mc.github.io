@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Janina Dill on Carl Müller-Crepon</title>
+    <link>/authors/janina-dill/</link>
+    <description>Recent content in Janina Dill on Carl Müller-Crepon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Aug 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/janina-dill/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>At Any Cost: How Ukrainians Think about Self-Defense Against Russia</title>
+      <link>/publication/at_any_cost/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/at_any_cost/</guid>
+      <description>In a conjoint experiment, we find Ukrainians to categorically reject political and territorial concessions.</description>
+    </item>
+    
+  </channel>
+</rss>
