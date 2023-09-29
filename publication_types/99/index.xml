@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>99 on Carl Müller-Crepon</title>
+    <link>/publication_types/99/</link>
+    <description>Recent content in 99 on Carl Müller-Crepon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/99/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Naming the Nation: State Building and National Identity Formation in 19th Century Germany</title>
+      <link>/publication/german_names/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/german_names/</guid>
+      <description>We study the effect of German unification on cultural homogenization using genealogical data on first names.</description>
+    </item>
+    
+  </channel>
+</rss>
