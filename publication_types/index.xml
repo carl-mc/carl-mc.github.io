@@ -6,10 +6,19 @@
     <description>Recent content in Publication_types on Carl Müller-Crepon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2</title>
+      <link>/publication_types/2/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication_types/2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>3</title>
@@ -17,15 +26,6 @@
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>/publication_types/3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2</title>
-      <link>/publication_types/2/</link>
-      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/publication_types/2/</guid>
       <description></description>
     </item>
     
