@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5 on Carl Müller-Crepon</title>
+    <link>/publication_types/5/</link>
+    <description>Recent content in 5 on Carl Müller-Crepon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nationalism and the Transformation of the State: Border Change and Conflict in Europe and Beyond</title>
+      <link>/publication/book_nastac/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/book_nastac/</guid>
+      <description>We show how nationalism, through violent conflict and border change, caused an increasing congruence between states and nations in Europe.</description>
+    </item>
+    
+    <item>
+      <title>Bound Together: How Ethnic Groups and Modern States Shape Each Other</title>
+      <link>/publication/book_bound/</link>
+      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/book_bound/</guid>
+      <description>I study how ethnic groups and political groups shape each other under modern territorial state rule.</description>
+    </item>
+    
+  </channel>
+</rss>
