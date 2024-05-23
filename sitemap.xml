@@ -48,6 +48,26 @@
   </url>
   
   <url>
+    <loc>/tags/data/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/heg_data/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/carl-m%C3%BCller-crepon-guy-schvitzhttps/icr.ethz.ch/people/schvitz/-and-lars-erik-cedermanhttps/icr.ethz.ch/people/cederman/</loc>
     <lastmod>2024-03-03T00:00:00+00:00</lastmod>
   </url>
@@ -143,27 +163,12 @@
   </url>
   
   <url>
-    <loc>/tags/data/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/state_reach_development/</loc>
     <lastmod>2021-11-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/project/statecap_data/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2021-11-10T00:00:00+00:00</lastmod>
   </url>
   
