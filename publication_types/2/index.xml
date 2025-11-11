@@ -6,10 +6,19 @@
     <description>Recent content in 2 on Carl Müller-Crepon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Coethnics Covote in Africa:  Studying Electoral Cleavages with a Covoting Regression Model</title>
+      <link>/publication/ethnic_parties/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ethnic_parties/</guid>
+      <description>We develop a new Covoting Regression to study the effect of ethnicity on voting.</description>
+    </item>
     
     <item>
       <title>Do Ukrainians Still Prefer Self-Defense Against Russia At Any Cost?</title>
