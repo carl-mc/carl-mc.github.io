@@ -28,12 +28,32 @@
   </url>
   
   <url>
+    <loc>/tags/data/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/</loc>
     <lastmod>2025-11-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/hre_itineraries/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <lastmod>2025-11-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -153,22 +173,7 @@
   </url>
   
   <url>
-    <loc>/tags/data/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/heg_data/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
   </url>
   
