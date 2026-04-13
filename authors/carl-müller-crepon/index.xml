@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Carl Müller-Crepon. All content is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).</copyright>
-    <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/carl-m%C3%BCller-crepon/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ethnic Geography and the Colonial Design of Administrative Units in Sub-Saharan Africa</title>
+      <link>/publication/ethcrackpack/</link>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ethcrackpack/</guid>
+      <description>I study the roots of colonial administrative unit designs in ethnic geography.</description>
+    </item>
     
     <item>
       <title>Building Tribes: How Administrative Units Shaped Ethnic Groups in Africa</title>
@@ -19,15 +28,6 @@
       
       <guid>/publication/admin_identities/</guid>
       <description>How did administrative geographies (trans-)form ethnic identities in Africa?</description>
-    </item>
-    
-    <item>
-      <title>Ethnic Geography and the Colonial Design of Administrative Units in Sub-Sahara Africa</title>
-      <link>/publication/ethcrackpack/</link>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/ethcrackpack/</guid>
-      <description>I study the roots of colonial administrative unit designs in ethnic geography.</description>
     </item>
     
     <item>
